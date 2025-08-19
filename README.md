@@ -1,16 +1,26 @@
-## Hi there 👋
+<!-- Typing Animation -->
+<h1 align="center">Hi 👋, I'm Aniket Bedwal</h1>
+<p align="center">
+  <img src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e" alt="Typing SVG" />
+</p>
 
-<!--
-**anikett35/anikett35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm an IT student who loves building things on the web.  
+Currently exploring **MERN stack, Next.js, and AI-powered apps**.  
+Always curious about how technology can solve real-world problems.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🌱 What I'm learning
+- TypeScript  
+- Advanced DSA  
+- System Design basics  
+
+---
+
+### ⚡ Tech I use
+- **Frontend:** React, Next.js, HTML, CSS, Tailwind  
+- **Backend:** Node.js, Express.js  
+- **Databases:** MySQL, MongoDB  
+- **Languages:** JavaScript, TypeScript, Python, C, C++  
+
