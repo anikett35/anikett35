@@ -1,22 +1,53 @@
-<h1 align="center">Hi 👋, I'm Aniket Bedwal</h1>
-<h3 align="center">A passionate MERN stack developer from India</h3>
+Hi there! 👋 I'm Aniket, a passionate full-stack developer from India specializing in the MERN stack.
+https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-Visit-blue?style=for-the-badge&logo=vercel
+https://img.shields.io/badge/%F0%9F%93%84_Resume-Download-green?style=for-the-badge&logo=googledrive
+https://img.shields.io/badge/%F0%9F%93%A7_Email-Contact-red?style=for-the-badge&logo=gmail
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anikett35&label=Profile%20views&color=0e75b6&style=flat" alt="anikett35" /> </p>
+</div>
+🚀 About Me
+I'm a dedicated MERN stack developer with a passion for creating efficient, scalable web applications. I love turning complex problems into simple, beautiful solutions.
 
-- 👨‍💻 All of my projects are available at [https://aniketbedwal.vercel.app/](https://aniketbedwal.vercel.app/)
+🛠️ Tech Stack
+Frontend Development
+https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black
+https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
+https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white
+https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white
 
-- 📫 How to reach me **aniketbedwal90@gmail.com**
+Backend Development
+https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white
+https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1flkfv9q76uJzXnOOnE18laoEgqrzq7Tq/view](https://drive.google.com/file/d/1flkfv9q76uJzXnOOnE18laoEgqrzq7Tq/view)
+Databases
+https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white
+https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white
+https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/aniket-bedwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aniket-bedwal" height="30" width="40" /></a>
-</p>
+Programming Languages
+https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white
+https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white
+https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=c%252B%252B&logoColor=white
+https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=black
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+📊 GitHub Analytics
+<div align="center">
+https://github-readme-stats.vercel.app/api?username=anikett35&show_icons=true&theme=radical&hide_border=true
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anikett35&show_icons=true&locale=en&layout=compact" alt="anikett35" /></p>
+https://github-readme-stats.vercel.app/api/top-langs/?username=anikett35&layout=compact&theme=radical&hide_border=true
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anikett35&" alt="anikett35" /></p>
+https://github-readme-streak-stats.herokuapp.com/?user=anikett35&theme=radical&hide_border=true
+
+</div>
+🌐 Connect With Me
+<div align="center">
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white
+
+</div>
