@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Crafting+Scalable+Web+Applications;MERN+Stack+%7C+Next.js+%7C+FastAPI;AI%2FML+Integration+into+Production;CGPA+9.26+%40+VIT+Pune" />
 
-<br/><br/>
+<br/>
 
 <a href="https://aniketbedwal.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F2027?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
 <a href="https://linkedin.com/in/aniket-bedwal"><img src="https://img.shields.io/badge/LINKEDIN-0F2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
@@ -17,30 +17,31 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+<div align="center">
+<img src="https://img.shields.io/badge/⌘-ABOUT-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
+</div>
 
 <br/>
 
-## `01` ~/about-me
-
 <table width="100%">
 <tr>
-<td width="60%" valign="top">
+<td width="58%" valign="top">
+
+<br/>
+
+> Full Stack Developer who turns complex problems into clean, scalable products — from real-time platforms to AI-assisted enterprise systems.
+
+<br/>
 
 ```yaml
-whoami:      Aniket Bedwal
 role:        Full Stack Developer (MERN) · AI/ML Enthusiast
 education:   B.Tech CS (AI) — VIT Pune | CGPA 9.26
 experience:  4x Full-Stack Internships
-focus:       Software Engineering · Full Stack Development
 based_in:    Pune, India
 ```
 
-🧠 &nbsp;Integrating **LLMs (Groq LLaMA 3.3)** and **ML classifiers** into production-grade systems
-🏆 &nbsp;Finalist — **Odoo × VIT Pune Hackathon 2026**
-
 </td>
-<td width="40%" align="center">
+<td width="42%" align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=anikett35&show_icons=true&theme=react&hide_border=true&bg_color=0F2027&title_color=00E5FF&icon_color=00E5FF&text_color=B0BEC5" width="100%"/>
 
@@ -48,26 +49,30 @@ based_in:    Pune, India
 </tr>
 </table>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-## `02` ~/tech-stack
+<div align="center">
+<img src="https://img.shields.io/badge/⌘-TECH_STACK-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
+</div>
+
+<br/>
 
 <div align="center">
 
-**Languages**
-<br/><br/>
+<sub>LANGUAGES</sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css&theme=dark" />
 
 <br/><br/>
 
-**Frameworks & Libraries**
-<br/><br/>
+<sub>FRAMEWORKS &amp; LIBRARIES</sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
 
 <br/><br/>
 
-**Databases & Tools**
-<br/><br/>
+<sub>DATABASES &amp; TOOLS</sub>
+<br/>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,git,github,vscode&theme=dark" />
 
 </div>
@@ -76,9 +81,11 @@ based_in:    Pune, India
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/⌘-GITHUB_ANALYTICS-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
+</div>
 
-## `03` ~/github-analytics
+<br/>
 
 <div align="center">
 
@@ -93,13 +100,7 @@ based_in:    Pune, India
 
 <img src="https://github-profile-trophy.vercel.app/?username=anikett35&theme=darkhub&no-frame=true&row=1&margin-w=15&column=6" />
 
-</div>
-
-<br/>
-
-## `04` ~/contribution-graph
-
-<div align="center">
+<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -108,13 +109,13 @@ based_in:    Pune, India
 
 </div>
 
-<br/>
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/⌘-ACHIEVEMENTS-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
+</div>
 
-## `05` ~/achievements
+<br/>
 
 <div align="center">
 
