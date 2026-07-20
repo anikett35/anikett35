@@ -1,78 +1,135 @@
-# 💫 Aniket Bedwal - MERN Stack Developer
-
 <div align="center">
 
-### Hi there! 👋 I'm Aniket, a passionate full-stack developer from India specializing in the MERN stack.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=ANIKET%20BEDWAL&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20·%20MERN%20·%20AI%2FML&descAlignY=55&descSize=22&descColor=B0BEC5"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel)](https://aniketbedwal.vercel.app/)
-[![Resume](https://img.shields.io/badge/Resume-Download-green?style=for-the-badge&logo=googledrive)](https://drive.google.com/file/d/1flkfv9q76uJzXnOOnE18laoEgqrzq7Tq/view)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:aniketbedwal90@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Crafting+Scalable+Web+Applications;MERN+Stack+%7C+Next.js+%7C+FastAPI;AI%2FML+Integration+into+Production;CGPA+9.26+%40+VIT+Pune" />
+
+<br/><br/>
+
+<a href="https://aniketbedwal.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F2027?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
+<a href="https://linkedin.com/in/aniket-bedwal"><img src="https://img.shields.io/badge/LINKEDIN-0F2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
+<a href="mailto:aniketbedwal90@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F2027?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
+<a href="https://github.com/anikett35"><img src="https://img.shields.io/badge/GITHUB-0F2027?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+
+<img src="https://komarev.com/ghpvc/?username=anikett35&label=PROFILE%20VIEWS&color=0F2027&style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## 🚀 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
 
-I'm a dedicated MERN stack developer with a passion for creating efficient, scalable web applications. I love turning complex problems into simple, beautiful solutions.
+<br/>
 
-## 🛠️ Tech Stack
+## `01` ~/about-me
 
-### **Frontend Development**
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
 
-### **Backend Development**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+```yaml
+whoami:      Aniket Bedwal
+role:        Full Stack Developer (MERN) · AI/ML Enthusiast
+education:   B.Tech CS (AI) — VIT Pune | CGPA 9.26
+experience:  4x Full-Stack Internships
+focus:       Software Engineering · Full Stack Development
+based_in:    Pune, India
+```
 
-### **Databases**
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+🧠 &nbsp;Integrating **LLMs (Groq LLaMA 3.3)** and **ML classifiers** into production-grade systems
+🏆 &nbsp;Finalist — **Odoo × VIT Pune Hackathon 2026**
 
-### **Programming Languages**
-![JavaScript](https://img.shields.io/badge/JavaScript-Expert-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-Intermediate-007396?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-Intermediate-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-Intermediate-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+</td>
+<td width="40%" align="center">
 
-## 📊 GitHub Analytics
+<img src="https://github-readme-stats.vercel.app/api?username=anikett35&show_icons=true&theme=react&hide_border=true&bg_color=0F2027&title_color=00E5FF&icon_color=00E5FF&text_color=B0BEC5" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## `02` ~/tech-stack
 
 <div align="center">
 
-![Aniket's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anikett35&show_icons=true&theme=radical&hide_border=true)
+**Languages**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css&theme=dark" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anikett35&layout=compact&theme=radical&hide_border=true)
+<br/><br/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=anikett35&theme=radical&hide_border=true)
+**Frameworks & Libraries**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
+
+<br/><br/>
+
+**Databases & Tools**
+<br/><br/>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,git,github,vscode&theme=dark" />
 
 </div>
 
-## 🌐 Connect With Me
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+<br/>
+
+## `03` ~/github-analytics
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aniket-bedwal)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://aniketbedwal.vercel.app/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aniketbedwal90@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anikett35&theme=react&hide_border=true&background=0F2027&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikett35&layout=compact&theme=react&hide_border=true&bg_color=0F2027&title_color=00E5FF&text_color=B0BEC5" width="43%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anikett35&theme=react-dark&hide_border=true&bg_color=0F2027&color=00E5FF&line=00E5FF&point=B0BEC5" width="97%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=anikett35&theme=darkhub&no-frame=true&row=1&margin-w=15&column=6" />
 
 </div>
 
----
+<br/>
+
+## `04` ~/contribution-graph
 
 <div align="center">
 
-### 💡 *"Code is like humor. When you have to explain it, it's bad."*
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="snake gif" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="97%" />
+</picture>
 
-⭐️ From [Aniket Bedwal](https://github.com/anikett35)
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
+
+<br/>
+
+## `05` ~/achievements
+
+<div align="center">
+
+| 🏆 Odoo × VIT Pune Hackathon 2026 | 📜 Full Stack Development | 📜 Machine Learning | 📜 HTML & CSS |
+|:---:|:---:|:---:|:---:|
+| Finalist | Infosys Springboard | Infosys Springboard | Great Learning |
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### `"Code is like humor. When you have to explain it, it's bad."`
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
 
 </div>
