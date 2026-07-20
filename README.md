@@ -109,21 +109,11 @@ based_in:    Pune, India
 
 </div>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
 <div align="center">
 <img src="https://img.shields.io/badge/⌘-ACHIEVEMENTS-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
 </div>
 
 <br/>
-
-<div align="center">
-
-| 🏆 Odoo × VIT Pune Hackathon 2026 | 📜 Full Stack Development | 📜 Machine Learning | 📜 HTML & CSS |
-|:---:|:---:|:---:|:---:|
-| Finalist | Infosys Springboard | Infosys Springboard | Great Learning |
-
-</div>
 
 <br/>
 
