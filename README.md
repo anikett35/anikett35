@@ -35,23 +35,17 @@
 
 ```yaml
 role:        Full Stack Developer (MERN) · AI/ML Enthusiast
-education:   B.Tech CS (AI) — VIT Pune | CGPA 9.26
-experience:  4x Full-Stack Internships
 based_in:    Pune, India
 ```
 
 </td>
-<td width="42%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=anikett35&show_icons=true&theme=react&hide_border=true&bg_color=0F2027&title_color=00E5FF&icon_color=00E5FF&text_color=B0BEC5" width="100%"/>
 
 </td>
 </tr>
 </table>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=anikett35&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0F2027&amp;title_color=00E5FF&amp;icon_color=00E5FF&amp;text_color=B0BEC5" width="100%"/><div align="center">
 <img src="https://img.shields.io/badge/⌘-TECH_STACK-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
 </div>
 
