@@ -1,120 +1,105 @@
+```markdown
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=ANIKET%20BEDWAL&fontSize=70&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer%20·%20MERN%20·%20AI%2FML&descAlignY=55&descSize=22&descColor=B0BEC5"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&width=650&lines=Crafting+Scalable+Web+Applications;MERN+Stack+%7C+Next.js+%7C+FastAPI;AI%2FML+Integration+into+Production;CGPA+9.26+%40+VIT+Pune" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:090A0F,50:2A1118,100:6B1F2A&height=250&section=header&text=ANIKET%20BEDWAL&fontSize=66&fontColor=E7C873&animation=fadeIn&fontAlignY=35&desc=FULL%20STACK%20DEVELOPER%20%C2%B7%20MERN%20%C2%B7%20AI%2FML&descAlignY=57&descSize=20&descColor=DDD5C2" />
 
 <br/>
 
-<a href="https://aniketbedwal.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0F2027?style=for-the-badge&logo=vercel&logoColor=00E5FF"/></a>
-<a href="https://linkedin.com/in/aniket-bedwal"><img src="https://img.shields.io/badge/LINKEDIN-0F2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF"/></a>
-<a href="mailto:aniketbedwal90@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0F2027?style=for-the-badge&logo=gmail&logoColor=00E5FF"/></a>
-<a href="https://github.com/anikett35"><img src="https://img.shields.io/badge/GITHUB-0F2027?style=for-the-badge&logo=github&logoColor=00E5FF"/></a>
+<a href="https://aniketbedwal.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-211318?style=for-the-badge&logo=vercel&logoColor=E7C873&labelColor=211318" /></a>
+<a href="https://linkedin.com/in/aniket-bedwal"><img src="https://img.shields.io/badge/LINKEDIN-211318?style=for-the-badge&logo=linkedin&logoColor=E7C873&labelColor=211318" /></a>
+<a href="mailto:aniketbedwal90@gmail.com"><img src="https://img.shields.io/badge/EMAIL-211318?style=for-the-badge&logo=gmail&logoColor=E7C873&labelColor=211318" /></a>
+<a href="https://github.com/anikett35"><img src="https://img.shields.io/badge/GITHUB-211318?style=for-the-badge&logo=github&logoColor=E7C873&labelColor=211318" /></a>
 
-<img src="https://komarev.com/ghpvc/?username=anikett35&label=PROFILE%20VIEWS&color=0F2027&style=flat-square" />
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=anikett35&label=VISITORS&color=6B1F2A&style=flat-square" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚔️ THE BUILDER'S OATH
+
+**Build with purpose. Ship with honor. Keep learning.**
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://img.shields.io/badge/⌘-ABOUT-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
-</div>
+## The Developer
 
-<br/>
-
-<table width="100%">
-<tr>
-<td width="58%" valign="top">
-
-<br/>
-
-> Full Stack Developer who turns complex problems into clean, scalable products — from real-time platforms to AI-assisted enterprise systems.
-
-<br/>
+I’m a Full Stack Developer focused on building thoughtful, reliable web applications. I enjoy working across the stack—from shaping the user experience to designing the APIs and data models behind it—and exploring practical ways to bring AI/ML into software.
 
 ```yaml
-role:        Full Stack Developer (MERN) · AI/ML Enthusiast
-based_in:    Pune, India
+role:       Full Stack Developer
+focus:      MERN · Next.js · FastAPI · AI/ML
+based_in:   Pune, India
+education:  VIT Pune · Class of 2028
+cgpa:       9.26
 ```
 
-</td>
-
-
-</td>
-</tr>
-</table>
-
-<img src="https://github-readme-stats.vercel.app/api?username=anikett35&amp;show_icons=true&amp;theme=react&amp;hide_border=true&amp;bg_color=0F2027&amp;title_color=00E5FF&amp;icon_color=00E5FF&amp;text_color=B0BEC5" width="100%"/><div align="center">
-<img src="https://img.shields.io/badge/⌘-TECH_STACK-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
-</div>
-
-<br/>
+## The Craft
 
 <div align="center">
 
-<sub>LANGUAGES</sub>
-<br/>
+**LANGUAGES**
+
 <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css&theme=dark" />
 
 <br/><br/>
 
-<sub>FRAMEWORKS &amp; LIBRARIES</sub>
-<br/>
+**FRAMEWORKS & LIBRARIES**
+
 <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,bootstrap&theme=dark" />
 
 <br/><br/>
 
-<sub>DATABASES &amp; TOOLS</sub>
-<br/>
+**DATABASES & TOOLS**
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,prisma,git,github,vscode&theme=dark" />
 
 </div>
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="4">
-
-<div align="center">
-<img src="https://img.shields.io/badge/⌘-GITHUB_ANALYTICS-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
-</div>
-
-<br/>
+## The Chronicle
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anikett35&theme=react&hide_border=true&background=0F2027&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikett35&layout=compact&theme=react&hide_border=true&bg_color=0F2027&title_color=00E5FF&text_color=B0BEC5" width="43%"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anikett35&theme=react-dark&hide_border=true&bg_color=0F2027&color=00E5FF&line=00E5FF&point=B0BEC5" width="97%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=anikett35&theme=darkhub&no-frame=true&row=1&margin-w=15&column=6" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=anikett35&show_icons=true&hide_border=true&bg_color=0D0D12&title_color=E7C873&icon_color=9D3341&text_color=DDD5C2" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anikett35&hide_border=true&background=0D0D12&stroke=6B1F2A&ring=E7C873&fire=9D3341&currStreakLabel=E7C873&sideLabels=DDD5C2&dates=AAA195" />
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="snake gif" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="97%" />
-</picture>
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anikett35&layout=compact&hide_border=true&bg_color=0D0D12&title_color=E7C873&text_color=DDD5C2" />
+
+<br/><br/>
+
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=anikett35&bg_color=0D0D12&color=E7C873&line=9D3341&point=DDD5C2&area=true&hide_border=true" />
 
 </div>
+
+## Across the Realm
+
+- **Web applications:** MERN stack and Next.js
+- **Backend development:** Node.js, Express, FastAPI
+- **AI/ML:** Exploring practical integrations in software
+- **Currently focused on:** Building stronger full stack and production engineering skills
+
+## Find Me
 
 <div align="center">
-<img src="https://img.shields.io/badge/⌘-ACHIEVEMENTS-0F2027?style=for-the-badge&labelColor=0F2027&color=00E5FF"/>
+
+[Portfolio](https://aniketbedwal.vercel.app/) ·
+[LinkedIn](https://linkedin.com/in/aniket-bedwal) ·
+[Email](mailto:aniketbedwal90@gmail.com) ·
+[GitHub](https://github.com/anikett35)
+
+<br/><br/>
+
+*“Every great build begins with a first commit.”*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6B1F2A,50:2A1118,100:090A0F&height=130&section=footer" />
+
 </div>
-
-<br/>
-
-<br/>
-
-<div align="center">
-
-### `"Code is like humor. When you have to explain it, it's bad."`
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=150&section=footer"/>
-
-</div>
+```
